@@ -1,10 +1,17 @@
 # expenditure_basic
 
-A new Flutter project.
+An Expenditure application to report the expenditure amount for the individual fields such as:
+- Decorator
+- Photographer
+- Caterer
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+## Packages Used
+
+- [syncfusion_flutter_charts](https://pub.dev/packages/syncfusion_flutter_charts)
 
 A few resources to get you started if this is your first Flutter project:
 
